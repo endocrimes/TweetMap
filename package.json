@@ -1,0 +1,17 @@
+{
+  "name": "TweetMap",
+  "version": "0.0.0",
+  "description": "",
+  "main": "CSVGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danielle Lancashire",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "~3.8.12",
+    "csv": "~0.4.0",
+    "csv-stringify": "0.0.3",
+    "twit": "~1.1.15"
+  }
+}
