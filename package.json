@@ -9,7 +9,7 @@
   "author": "Daniel Tomlinson",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "~3.8.12",
+    "mongoose": "~5.7.9",
     "csv": "~0.4.0",
     "csv-stringify": "0.0.3",
     "twit": "~1.1.15"
